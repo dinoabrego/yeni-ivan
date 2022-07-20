@@ -41,6 +41,16 @@ html {
   color: var(--color2);
 }
 
+.newheading .subheading {
+  font-size: 1rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.newheading2 {
+  font-size: 1.1rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .header-image {
   background-image: url("../images/_ROM2645.jpg");
   background-position: center center;
